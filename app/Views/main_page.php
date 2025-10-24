@@ -39,7 +39,7 @@
         <p style="font-size: 30px">Heřmánek, máta či šalvěj patří k nejznámějším pomocníkům při drobných obtížích.
         <br>Ulevují od nachlazení, podporují trávení a přinášejí klid.</p>
       </div>
-    </div>
+    </div> 
     </div>
     <div class="carousel-item">
       <div class="row">
